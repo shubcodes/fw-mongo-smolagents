@@ -1,0 +1,16 @@
+pymongo[srv]
+fireworks-ai
+openai
+tenacity
+numpy
+python-docx
+PyMuPDF
+pyyaml
+pytest
+pytest-asyncio
+extraction
+requests
+streamlit
+flask
+smolagents>=0.0.2
+litellm>=0.1.737
